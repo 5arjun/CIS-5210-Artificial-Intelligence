@@ -1,0 +1,27 @@
+# Course configuration
+class_name: "TEMPLATE - Replace with your class name"
+class_code: "CS XXX"
+semester: "Spring 2026"
+
+# Processing settings
+ocr:
+  service: "google-vision"
+  min_confidence: 0.75
+  quality_threshold: 200  # minimum DPI
+
+formatting:
+  auto_tag: true
+  cross_reference: true
+  extract_todos: true
+  highlight_questions: true
+  detect_diagrams: true
+
+# Organization
+default_notes_folder: "."  # Changed from "notes" to "." (repo root)
+archive_processed_images: true
+update_readme_index: true
+
+# Branch naming
+branch_prefix: "notes"
+include_date: true
+include_summary: true  # AI-generated from content
