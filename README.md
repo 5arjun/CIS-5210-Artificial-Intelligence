@@ -13,7 +13,7 @@ This repository contains automated transcriptions of handwritten notes processed
 
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
-| 2026-01-28 | [AI Essentials Python Review: Functions, Classes, and Iterators](untitled.md) | `Python`, `Functions`, `Classes` | 77% |
+| 2026-01-28 | [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md) | `Python`, `Functions`, `Classes` | 77% |
 | 2026-01-26 | [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md) | `AI`, `Rational Agents`, `Agents` | 85% |
 | 2026-01-26 | [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md) | `AI`, `Task-Environments`, `PEAS` | 87% |
 ---
