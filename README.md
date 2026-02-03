@@ -13,7 +13,7 @@ This repository contains automated transcriptions of handwritten notes processed
 
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
-| 2026-02-03 | [Uninformed vs Informed Search Strategies and Evaluation Dimensions](mategies.md) | `Search-Strategies`, `Uninformed-Search`, `Informed-Search` | 79% |
+| 2026-02-03 | [AI-Essentials: Uninformed Search](AI-Essentials/Uninformed-Search.md) | `Search-Strategies`, `Uninformed-Search`, `Informed-Search` | 79% |
 | 2026-02-02 | [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md) | `Search-Problems`, `AI-Essentials`, `State-Space` | 85% |
 | 2026-02-02 | [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md) | `Search-Algorithms`, `Tree-Search`, `Graph-Search` | 82% |
 
