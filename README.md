@@ -9,6 +9,12 @@
 This repository contains automated transcriptions of handwritten notes processed through NoteFlow by Arjun.
 
 
+### 2026-02
+
+| Date | Title | Tags | Confidence |
+|------|-------|------|------------|
+| 2026-02-02 | [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md) | `Search-Problems`, `AI-Essentials`, `State-Space` | 85% |
+
 ### 2026-01
 
 | Date | Title | Tags | Confidence |
@@ -21,9 +27,9 @@ This repository contains automated transcriptions of handwritten notes processed
 
 ## 📊 Statistics
 
-- **Total Notes**: 4
-- **Unique Tags**: 19
-- **Average Confidence**: 84.2%
+- **Total Notes**: 5
+- **Unique Tags**: 23
+- **Average Confidence**: 84.4%
 
 ---
 
@@ -31,6 +37,8 @@ This repository contains automated transcriptions of handwritten notes processed
 
 - **AI**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md), [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **AI-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
+- **AI-Essentials**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
+- **Abstraction**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 - **Agents**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Classes**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Environments**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
@@ -46,10 +54,12 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Rational Behavior**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Rational-Agents**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Reflex-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
-- **Search-Problems**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
+- **Search-Problems**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
+- **State-Space**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 - **Task-Environments**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md), [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
+- **Vacuum-World**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 
 ---
 
-*Last updated: 2026-01-31 20:32*  
+*Last updated: 2026-02-03 01:23*  
 *Generated automatically by [NoteFlow by Arjun](https://github.com/5arjun/noteflow-template)*
