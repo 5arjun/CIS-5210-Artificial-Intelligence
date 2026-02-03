@@ -14,6 +14,7 @@ This repository contains automated transcriptions of handwritten notes processed
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
 | 2026-02-02 | [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md) | `Search-Problems`, `AI-Essentials`, `State-Space` | 85% |
+| 2026-02-02 | [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md) | `Search-Algorithms`, `Tree-Search`, `Graph-Search` | 82% |
 
 ### 2026-01
 
@@ -27,9 +28,9 @@ This repository contains automated transcriptions of handwritten notes processed
 
 ## 📊 Statistics
 
-- **Total Notes**: 5
-- **Unique Tags**: 23
-- **Average Confidence**: 84.4%
+- **Total Notes**: 6
+- **Unique Tags**: 26
+- **Average Confidence**: 84.0%
 
 ---
 
@@ -37,13 +38,14 @@ This repository contains automated transcriptions of handwritten notes processed
 
 - **AI**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md), [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **AI-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
-- **AI-Essentials**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
+- **AI-Essentials**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Abstraction**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 - **Agents**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Classes**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Environments**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Functions**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Generators**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
+- **Graph-Search**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Inheritance**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **List-Comprehensions**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **PEAS**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
@@ -54,12 +56,14 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Rational Behavior**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Rational-Agents**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Reflex-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
-- **Search-Problems**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
+- **Search-Algorithms**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
+- **Search-Problems**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md), [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
 - **State-Space**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 - **Task-Environments**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md), [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
+- **Tree-Search**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Vacuum-World**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 
 ---
 
-*Last updated: 2026-02-03 01:23*  
+*Last updated: 2026-02-03 01:43*  
 *Generated automatically by [NoteFlow by Arjun](https://github.com/5arjun/noteflow-template)*
