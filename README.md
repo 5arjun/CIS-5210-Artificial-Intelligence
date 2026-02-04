@@ -13,7 +13,8 @@ This repository contains automated transcriptions of handwritten notes processed
 
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
-| 2026-02-03 | [AI-Essentials: Uninformed Search](AI-Essentials/Uninformed-Search.md) | `Search-Strategies`, `Uninformed-Search`, `Informed-Search` | 79% |
+| 2026-02-04 | [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md) | `Breadth-First-Search`, `Depth-First-Search`, `Iterative-Deepening-Search` | 84% |
+| 2026-02-03 | [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md) | `Search-Strategies`, `Uninformed-Search`, `Informed-Search` | 79% |
 | 2026-02-02 | [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md) | `Search-Problems`, `AI-Essentials`, `State-Space` | 85% |
 | 2026-02-02 | [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md) | `Search-Algorithms`, `Tree-Search`, `Graph-Search` | 82% |
 
@@ -29,9 +30,9 @@ This repository contains automated transcriptions of handwritten notes processed
 
 ## 📊 Statistics
 
-- **Total Notes**: 7
-- **Unique Tags**: 30
-- **Average Confidence**: 83.3%
+- **Total Notes**: 8
+- **Unique Tags**: 33
+- **Average Confidence**: 83.4%
 
 ---
 
@@ -42,14 +43,17 @@ This repository contains automated transcriptions of handwritten notes processed
 - **AI-Essentials**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Abstraction**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 - **Agents**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
+- **Breadth-First-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md)
 - **Classes**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
-- **Complexity-Analysis**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](mategies.md)
+- **Complexity-Analysis**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
+- **Depth-First-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md)
 - **Environments**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Functions**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Generators**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Graph-Search**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
-- **Informed-Search**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](mategies.md)
+- **Informed-Search**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **Inheritance**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
+- **Iterative-Deepening-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md)
 - **List-Comprehensions**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **PEAS**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Performance Measure**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
@@ -59,16 +63,16 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Rational Behavior**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Rational-Agents**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Reflex-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
-- **Search-Algorithms**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](mategies.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
+- **Search-Algorithms**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md), [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Search-Problems**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md), [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
-- **Search-Strategies**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](mategies.md)
+- **Search-Strategies**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **State-Space**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 - **Task-Environments**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md), [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Tree-Search**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
-- **Uninformed-Search**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](mategies.md)
+- **Uninformed-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md), [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **Vacuum-World**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
 
 ---
 
-*Last updated: 2026-02-03 21:07*  
+*Last updated: 2026-02-04 00:50*  
 *Generated automatically by [NoteFlow by Arjun](https://github.com/5arjun/noteflow-template)*
