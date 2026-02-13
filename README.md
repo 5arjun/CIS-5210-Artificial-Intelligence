@@ -13,7 +13,7 @@ This repository contains automated transcriptions of handwritten notes processed
 
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
-| 2026-02-13 | [A* Search Essentials](untitled.md) | `A-Star-Search`, `Admissible-Heuristics`, `Search-Algorithms` | 80% |
+| 2026-02-13 | [A* Search Essentials](AI-Essentials/A*-Search.md) | `A-Star-Search`, `Admissible-Heuristics`, `Search-Algorithms` | 80% |
 | 2026-02-10 | [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md) | `Heuristic-Search`, `Greedy-Best-First`, `Uninformed-Search` | 86% |
 | 2026-02-09 | [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md) | `Uninformed-Search`, `Search-Algorithms`, `Uniform-Cost-Search` | 83% |
 | 2026-02-04 | [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md) | `Breadth-First-Search`, `Depth-First-Search`, `Iterative-Deepening-Search` | 84% |
