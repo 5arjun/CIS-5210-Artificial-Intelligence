@@ -13,6 +13,7 @@ This repository contains automated transcriptions of handwritten notes processed
 
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
+| 2026-02-18 | [Statistics for Data Science Essentials: Discrete Math Review](Statistics-for-Data-Science-Essentials/Discrete-Math-Review.md) | `discrete-mathematics`, `set-theory`, `functions` | 82% |
 | 2026-02-13 | [A* Search Essentials](AI-Essentials/A*-Search.md) | `A-Star-Search`, `Admissible-Heuristics`, `Search-Algorithms` | 80% |
 | 2026-02-10 | [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md) | `Heuristic-Search`, `Greedy-Best-First`, `Uninformed-Search` | 86% |
 | 2026-02-09 | [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md) | `Uninformed-Search`, `Search-Algorithms`, `Uniform-Cost-Search` | 83% |
@@ -33,21 +34,21 @@ This repository contains automated transcriptions of handwritten notes processed
 
 ## 📊 Statistics
 
-- **Total Notes**: 11
-- **Unique Tags**: 39
-- **Average Confidence**: 83.3%
+- **Total Notes**: 12
+- **Unique Tags**: 43
+- **Average Confidence**: 83.2%
 
 ---
 
 ## 🔖 Browse by Tag
 
-- **A-Star-Search**: [A* Search Essentials](untitled.md)
+- **A-Star-Search**: [A* Search Essentials](AI-Essentials/A*-Search.md)
 - **AI**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md), [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **AI-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
 - **AI-Essentials**: [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md), [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md), [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
-- **AI-Search**: [A* Search Essentials](untitled.md)
+- **AI-Search**: [A* Search Essentials](AI-Essentials/A*-Search.md)
 - **Abstraction**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
-- **Admissible-Heuristics**: [A* Search Essentials](untitled.md)
+- **Admissible-Heuristics**: [A* Search Essentials](AI-Essentials/A*-Search.md)
 - **Agents**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Breadth-First-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md)
 - **Classes**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
@@ -58,7 +59,7 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Generators**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Graph-Search**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Greedy-Best-First**: [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md)
-- **Heuristic-Search**: [A* Search Essentials](untitled.md), [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md)
+- **Heuristic-Search**: [A* Search Essentials](AI-Essentials/A*-Search.md), [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md)
 - **Informed-Search**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **Inheritance**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Iterative-Deepening-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md)
@@ -71,7 +72,7 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Rational Behavior**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Rational-Agents**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Reflex-Agents**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
-- **Search-Algorithms**: [A* Search Essentials](untitled.md), [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md), [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md), [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md), [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
+- **Search-Algorithms**: [A* Search Essentials](AI-Essentials/A*-Search.md), [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md), [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md), [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md), [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md), [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Search-Problems**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md), [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md), [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
 - **Search-Strategies**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **State-Space**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
@@ -80,8 +81,12 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Uniform-Cost-Search**: [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md)
 - **Uninformed-Search**: [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md), [AI Essentials: Uniform-Cost Search](AI-Essentials/Uniform-cost-Search.md), [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md), [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **Vacuum-World**: [AI Essentials: Search Problem Formulation](AI-Essentials/Search-Problem-Formulation.md)
+- **data-science-fundamentals**: [Statistics for Data Science Essentials: Discrete Math Review](Statistics-for-Data-Science-Essentials/Discrete-Math-Review.md)
+- **discrete-mathematics**: [Statistics for Data Science Essentials: Discrete Math Review](Statistics-for-Data-Science-Essentials/Discrete-Math-Review.md)
+- **functions**: [Statistics for Data Science Essentials: Discrete Math Review](Statistics-for-Data-Science-Essentials/Discrete-Math-Review.md)
+- **set-theory**: [Statistics for Data Science Essentials: Discrete Math Review](Statistics-for-Data-Science-Essentials/Discrete-Math-Review.md)
 
 ---
 
-*Last updated: 2026-02-13 00:44*  
+*Last updated: 2026-02-18 16:21*  
 *Generated automatically by [NoteFlow by Arjun](https://github.com/5arjun/noteflow-template)*
