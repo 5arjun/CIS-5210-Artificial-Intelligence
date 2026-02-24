@@ -122,7 +122,7 @@ source: handwritten
 - Highlight questions by making them **bold**
 - Extract any TODO items into a dedicated section
 - Maintain technical accuracy
-
+- use LaTex for mathematical notation, and ensure it is properly formatted in the output markdown
 DO NOT wrap the output in code blocks or backticks. Return raw markdown only.{topics_context}
 
 OCR TEXT (confidence {confidence:.1%}):
