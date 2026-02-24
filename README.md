@@ -14,6 +14,7 @@ This repository contains automated transcriptions of handwritten notes processed
 | Date | Title | Tags | Confidence |
 |------|-------|------|------------|
 | 2026-02-24 | [Statistics for Data Science Essentials: Random Sampling](Statistics-for-Data-Science-Essentials/Random-Sampling.md) | `Data-Science`, `Random-Sampling`, `Statistics` | 77% |
+| 2026-02-24 | [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md) | `Random-Variables`, `Probability`, `Discrete-Random-Variables` | 67% |
 | 2026-02-18 | [Statistics for Data Science Essentials: Discrete Math Review](Statistics-for-Data-Science-Essentials/Discrete-Math-Review.md) | `discrete-mathematics`, `set-theory`, `functions` | 82% |
 | 2026-02-13 | [A* Search Essentials](AI-Essentials/A*-Search.md) | `A-Star-Search`, `Admissible-Heuristics`, `Search-Algorithms` | 80% |
 | 2026-02-10 | [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md) | `Heuristic-Search`, `Greedy-Best-First`, `Uninformed-Search` | 86% |
@@ -35,9 +36,9 @@ This repository contains automated transcriptions of handwritten notes processed
 
 ## 📊 Statistics
 
-- **Total Notes**: 13
-- **Unique Tags**: 48
-- **Average Confidence**: 82.7%
+- **Total Notes**: 14
+- **Unique Tags**: 54
+- **Average Confidence**: 81.6%
 
 ---
 
@@ -55,10 +56,14 @@ This repository contains automated transcriptions of handwritten notes processed
 - **Classes**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Complexity-Analysis**: [Uninformed vs Informed Search Strategies and Evaluation Dimensions](AI-Essentials/Uninformed-Search.md)
 - **Confidence-Intervals**: [Statistics for Data Science Essentials: Random Sampling](Statistics-for-Data-Science-Essentials/Random-Sampling.md)
+- **Continuous-Random-Variables**: [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md)
 - **Data-Science**: [Statistics for Data Science Essentials: Random Sampling](Statistics-for-Data-Science-Essentials/Random-Sampling.md)
 - **Depth-First-Search**: [AI Essentials: Search Algorithms Comparison](AI-Essentials/Searches.md)
+- **Discrete-Random-Variables**: [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md)
 - **Environments**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
+- **Exponential-Distribution**: [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md)
 - **Functions**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
+- **Gaussian-Distribution**: [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md)
 - **Generators**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Graph-Search**: [AI Essentials: Tree Search vs Graph Search](AI-Essentials/Basic-Search-Algorithms.md)
 - **Greedy-Best-First**: [AI Essentials: Greedy Best-First Search and Heuristics](AI-Essentials/Greedy-Best-First-Search.md)
@@ -70,9 +75,11 @@ This repository contains automated transcriptions of handwritten notes processed
 - **PEAS**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
 - **Performance Measure**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Population-Estimation**: [Statistics for Data Science Essentials: Random Sampling](Statistics-for-Data-Science-Essentials/Random-Sampling.md)
+- **Probability**: [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md)
 - **Problem-Solving**: [AI Essentials: Reflex Agents, Problem Solving, and Task Environments](AI-Essentials/Search-Problems.md)
 - **Python**: [AI Essentials Python Review: Functions, Classes, and Iterators](AI-Essentials/Python-Review.md)
 - **Random-Sampling**: [Statistics for Data Science Essentials: Random Sampling](Statistics-for-Data-Science-Essentials/Random-Sampling.md)
+- **Random-Variables**: [Statistics for Data Science: Random Variables Notes](Statistics-for-Data-Science-Essentials/Random-Variables.md)
 - **Rational Agents**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Rational Behavior**: [AI Essentials: Rational Agents](AI-Essentials/Rational-Agents.md)
 - **Rational-Agents**: [AI Essentials: Task Environments (PEAS and Properties)](AI-Essentials/Task-Environments.md)
@@ -94,5 +101,5 @@ This repository contains automated transcriptions of handwritten notes processed
 
 ---
 
-*Last updated: 2026-02-24 15:42*  
+*Last updated: 2026-02-24 16:05*  
 *Generated automatically by [NoteFlow by Arjun](https://github.com/5arjun/noteflow-template)*
